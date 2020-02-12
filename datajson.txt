@@ -24,14 +24,14 @@
         },
         {
           "@type": "dcat:Distribution",
-          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.kml?outSR={'latestWkid':3857,'wkid':102100}",
+          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.kml?outSR='latestWkid':3857,'wkid':102100",
           "format": "KML",
           "mediaType": "application/vnd.google-earth.kml+xml",
           "title": "KML"
         },
         {
           "@type": "dcat:Distribution",
-          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.zip?outSR={'latestWkid':3857,'wkid':102100}",
+          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.zip?outSR='latestWkid':3857,'wkid':102100",
           "format": "ZIP",
           "mediaType": "application/zip",
           "title": "Shapefile"
