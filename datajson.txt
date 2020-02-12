@@ -17,55 +17,6 @@
       "distribution": [
         {
           "@type": "dcat:Distribution",
-          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11",
-          "format": "Web Page",
-          "mediaType": "text/html",
-          "title": "ArcGIS Hub Dataset"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "accessURL": "https://apps.fs.usda.gov/arcx/rest/services/EDW/EDW_ExistingVegetationRegion05_01/MapServer/11",
-          "format": "Esri REST",
-          "mediaType": "application/json",
-          "title": "Esri Rest API"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.geojson?outSR={\"latestWkid\":3857,\"wkid\":102100}",
-          "format": "GeoJSON",
-          "mediaType": "application/vnd.geo+json",
-          "title": "GeoJSON"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.csv?outSR={\"latestWkid\":3857,\"wkid\":102100}",
-          "format": "CSV",
-          "mediaType": "text/csv",
-          "title": "CSV"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "accessURL": "https://apps.fs.usda.gov/arcx/services/EDW/EDW_ExistingVegetationRegion05_01/MapServer/WFSServer?request=GetCapabilities&service=WFS",
-          "format": "OGC WFS",
-          "mediaType": "application/vnd.ogc.wfs_xml",
-          "title": "OGC WFS"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.kml?outSR={\"latestWkid\":3857,\"wkid\":102100}",
-          "format": "KML",
-          "mediaType": "application/vnd.google-earth.kml+xml",
-          "title": "KML"
-        },
-        {
-          "@type": "dcat:Distribution",
-          "accessURL": "http://enterprisecontentnew-usfs.hub.arcgis.com/datasets/cce8804bfa25474ab4b61e294dd04bfa_11.zip?outSR={\"latestWkid\":3857,\"wkid\":102100}",
-          "format": "ZIP",
-          "mediaType": "application/zip",
-          "title": "Shapefile"
-        },
-        {
-          "@type": "dcat:Distribution",
           "accessURL": "https://apps.fs.usda.gov/arcx/services/EDW/EDW_ExistingVegetationRegion05_01/MapServer/WMSServer?request=GetCapabilities&service=WMS",
           "format": "OGC WMS",
           "mediaType": "application/vnd.ogc.wms_xml",
